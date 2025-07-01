@@ -1,4 +1,4 @@
-Data Scientist with a background in Electrical Engineering (Unicamp) and an MBA in Data Science and Analytics (USP/ESALQ). Specialized in statistical modeling, machine learning, and analytical process automation. Proven experience with large datasets, regulatory validation in the energy sector, and analytical intelligence solutions applied to business. Proficient in tools such as Python, SQL, Power BI, MLflow, and QGIS, with strong experience in geoprocessing, anomaly detection, clustering, NLP, time series, and deep learning. Recognized for developing efficient pipelines, strategic dashboards, and robust models that drive data-driven decisions.
+## Hello, my name is Leonardo, a Data Scientist from Brazil!
 
 
 <div style="display: inline_block"><br>
